@@ -8,6 +8,6 @@ var long_num = Long.fromString(""+num);
 console.log(long_num);
 console.log(long_num.toString());
 
-var long_num2 = Long.fromString(""+round(num),true);
+var long_num2 = Long.fromString(""+Math.round(num),true);
 console.log(long_num2);
 console.log(long_num2.toString());
