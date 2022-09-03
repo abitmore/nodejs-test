@@ -6,4 +6,4 @@ console.log(num);
 
 var long_num = Long.fromString(""+num);
 console.log(long_num);
-console.log(long_num.to_string());
+console.log(long_num.toString());
