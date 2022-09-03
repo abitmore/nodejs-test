@@ -1,2 +1,2 @@
 let Long = require('long');
-print("hello world 123");
+console.log("hello world 123");
